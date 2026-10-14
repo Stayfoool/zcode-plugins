@@ -1185,7 +1185,7 @@
         "en": "Turn poems, imagery, or a one-line spark of inspiration into illustrations or posters, using a growing built-in style library.",
         "zh-CN": "把诗词、词句、意象或一句话灵感，转化为插画或海报；内置可成长的风格库（风格配方 = 正向提示词 + 负向约束 + 参考图 + 参数），支持自选风格、出图张数与成品形态。"
       },
-      "version": "1.1.1",
+      "version": "1.1.2",
       "author": {
         "name": "Stayfoool",
         "url": "https://github.com/Stayfoool"
